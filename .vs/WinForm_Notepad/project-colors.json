@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c315a7e-f070-44d7-bdd2-dfdd0ab89435": {
+      "ProjectGuid": "9c315a7e-f070-44d7-bdd2-dfdd0ab89435",
+      "DisplayName": "WinForm_Notepad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
