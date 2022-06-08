@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcxUizfuBwLs0bcvdkdwTjoPsJnJTb4sV91y9JGdMI8id9nOBCu0hME1Viar+ehYv2TLMcaJhSngdLBpPmVnqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loki\\source\\repos\\WinForm_Notepad\\WinForm_Notepad\\WinForm_Notepad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
