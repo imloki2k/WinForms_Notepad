@@ -17,5 +17,21 @@ namespace WinForm_Notepad
             InitializeComponent();
         }
 
+        private void eToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            TextBox.Clear();
+        }
     }
 }
